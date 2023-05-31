@@ -1,1 +1,3 @@
-# dummy_json_files
+# Dummy JSON Files
+
+This is a repository to store dummy json files. 
