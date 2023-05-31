@@ -1,0 +1,24 @@
+{
+    "data": [{
+      "id": "bc2377b0-9905-4248-8f4d-6512b49d20a1",
+      "amount" : 10.0,
+      "category" : "work",
+      "date": "2023-05-31 04:53:17.012",
+      "name" : "Wine",
+      "type": "income"
+    }, {
+      "id": "b980db45-a925-46ee-b62e-e28012f3ab0b",
+      "amount" : 16.0,
+      "category" : "work",
+      "date": "2023-05-31 04:53:17.012",
+      "name" : "Cheese",
+      "type": "income"
+    },{
+      "id": "4db3c9f5-de2b-4b45-989f-7c30dec4850f",
+      "amount" : 16.0,
+      "category" : "home",
+      "date": "2023-05-31 04:53:17.012",
+      "name" : "Bread",
+      "type": "income"
+    }]
+  }
