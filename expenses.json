@@ -27,7 +27,7 @@
       "category" : "work",
       "date": "2023-05-31 04:53:17.012",
       "name" : "Work",
-      "type": "income"
+      "type": "earned"
     },
     {
       "id": "a7a39a45-5ed0-4bd0-9346-e6397474503d",
@@ -35,7 +35,7 @@
       "category" : "work",
       "date": "2023-05-31 04:53:17.012",
       "name" : "Udemy",
-      "type": "income"
+      "type": "passive"
     },
             {
       "id": "bc2377b0-9905-4248-8f4d-6512b49d20a1",
@@ -43,21 +43,21 @@
       "category" : "food",
       "date": "2023-05-31 04:53:17.012",
       "name" : "Wine",
-      "type": "expenditure"
+      "type": "pay"
     }, {
       "id": "b980db45-a925-46ee-b62e-e28012f3ab0b",
       "amount" : 16.0,
       "category" : "food",
       "date": "2023-05-31 04:53:17.012",
       "name" : "Cheese",
-      "type": "expenditure"
+      "type": "pay"
     },{
       "id": "4db3c9f5-de2b-4b45-989f-7c30dec4850f",
       "amount" : 16.0,
       "category" : "food",
       "date": "2023-05-31 04:53:17.012",
       "name" : "Bread",
-      "type": "expenditure"
+      "type": "pay"
     },
     {
       "id": "81c0822e-ec62-42b1-93e4-653b737317ee",
