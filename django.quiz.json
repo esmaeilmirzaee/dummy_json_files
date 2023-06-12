@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "id": "",
+      "question": "What is a Django secret key?",
+      "answer": "To perform cryptographic signing, or to create hashes and tokens for sensitive information like csrf tokens, password reset tokens, etc, Django makes use of a salt stored in the SECRET KEY variable. Anyone with our SECRET KEY may create their own copies of our hashes and tokens.",
+      "src": ""
+    }
+  ]
+}
