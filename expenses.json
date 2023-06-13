@@ -38,41 +38,41 @@
       "type": "passive"
     },
             {
-      "id": "bc2377b0-9905-4248-8f4d-6512b49d20a1",
-      "amount" : 10.0,
-      "category" : "food",
+      "id": "f73da9ba-9132-4509-ba85-e98e8c9aff71",
+      "amount" : 13.98,
+      "category" : "work",
       "date": "2023-05-31 04:53:17.012",
-      "name" : "Wine",
-      "type": "pay"
+      "name" : "YouTube",
+      "type": "passive"
     }, {
-      "id": "b980db45-a925-46ee-b62e-e28012f3ab0b",
-      "amount" : 16.0,
+      "id": "df7373b0-815e-4f8d-be4b-67c02c1428d7",
+      "amount" : 106.0,
       "category" : "food",
       "date": "2023-05-31 04:53:17.012",
-      "name" : "Cheese",
-      "type": "pay"
+      "name" : "Advertisement",
+      "type": "passive"
     },{
-      "id": "4db3c9f5-de2b-4b45-989f-7c30dec4850f",
-      "amount" : 16.0,
+      "id": "5a337ae3-36e4-4519-80d1-d15940583f66",
+      "amount" : 86.0,
       "category" : "food",
       "date": "2023-05-31 04:53:17.012",
-      "name" : "Bread",
+      "name" : "Restaurant",
       "type": "pay"
     },
     {
-      "id": "81c0822e-ec62-42b1-93e4-653b737317ee",
-      "amount" : 7601.65,
-      "category" : "work",
+      "id": "b92a6eb7-282e-4621-85ad-cb97efb6b614",
+      "amount" : 76.16,
+      "category" : "leasuire",
       "date": "2023-05-31 04:53:17.012",
-      "name" : "Work",
-      "type": "income"
+      "name" : "Theater",
+      "type": "pay"
     },
     {
-      "id": "a7a39a45-5ed0-4bd0-9346-e6397474503d",
-      "amount" : 270.0,
+      "id": "d5391e54-9d64-40a0-97a1-4467b245aece",
+      "amount" : 970.0,
       "category" : "work",
       "date": "2023-05-31 04:53:17.012",
-      "name" : "Udemy",
+      "name" : "Online teaching",
       "type": "income"
     }]
   }
